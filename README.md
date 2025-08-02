@@ -34,6 +34,7 @@ pkg install python
 pip install cryptography colorama requests
 ```
 ## ▶️ వాడే విధానం
+## ⚠️ హెచ్చరిక PASSWORD 1234
 ```
 git clone https://github.com/sunnamsriram1/Ransome_eE_4v.git
 cd Ransome_eE_4v
@@ -43,6 +44,15 @@ bash Ransom_eE_4v.py
 - lock – ఫైళ్లను .locked ఫార్మాట్‌లో encrypt చేస్తుంది.
 - unlock – .locked ఫైళ్లను డిక్రిప్ట్ చేసి restore చేస్తుంది.
 
-##📝 అడిగే సమాచారం:
+## 📝 అడిగే సమాచారం:
 - 📁 టార్గెట్ ఫోల్డర్ పాత్
 - 🔑 పాస్‌వర్డ్ (లాకింగ్ / అన్‌లాక్ చేయడానికి)
+- 
+## ⚠️ హెచ్చరిక
+- ✅ ఎడ్యుకేషనల్ పర్పస్ కోసమే వాడండి.
+- ❌ ఇతరుల వ్యక్తిగత డేటా లేదా వ్యవస్థలపై ప్రయోగించవద్దు.
+- 💣 ఫైళ్లను తిరిగి పొందలేనివిగా మార్చే ప్రమాదం ఉంది – జాగ్రత్తగా వాడండి.
+
+## 👨‍💻 రచయిత
+## Sunnam Sriram
+## 🔗 GitHub: sunnamsriram1
