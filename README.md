@@ -1,3 +1,50 @@
+
+
+
+<h1 align="center">🔐 Ransom_eE_4v</h1>
+
+<p align="center">
+💣 Python ఆధారిత ఫైల్ ఎన్‌క్రిప్షన్ టూల్ <br>
+📘 Strictly for Educational Purpose only! <br>
+</p>
+
+---
+
+## 📌 Overview
+
+> ⚠️ This tool is intended **only for ethical hacking, cybersecurity learning, and educational use**.
+
+**Ransom_eE_4v** is a Python script that simulates ransomware-like encryption/decryption, allowing users to learn how file-level encryption works.
+
+---
+
+## ✨ Features
+
+- 🔐 AES-based **file encryption & decryption**
+- 🔑 Password protection with unlock prompt
+- 💣 Auto **self-destruct** after wrong attempts
+- 🧠 **Educational simulation only**
+- ☁️ GitHub backup supported (for `.locked` files)
+
+---
+
+## 📁 Files Included
+
+| Filename          | Description                                |
+|-------------------|--------------------------------------------|
+| `Ransom_eE_4v.py` | Main script with encryption & decryption   |
+| `README.md`       | Stylish info file you're reading now 😉     |
+| `LICENSE`         | MIT License - Open source permission       |
+| `keys.txt` _(opt)_| Password/key storage (only for testing!)  |
+
+---
+
+## ⚙️ How to Run
+
+```bash
+python Ransom_eE_4v.py
+
+
 # Ransome_eE_4v
 # 🔐 RANSOM_E_V4_TOOL — ఫైల్ లాకింగ్ మరియు అన్‌లాక్ టూల్
 
