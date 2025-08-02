@@ -39,3 +39,10 @@ git clone https://github.com/sunnamsriram1/Ransome_eE_4v.git
 cd Ransome_eE_4v
 bash Ransom_eE_4v.py
 ```
+## 🎛️ Mode ఎంచుకోండి:
+- lock – ఫైళ్లను .locked ఫార్మాట్‌లో encrypt చేస్తుంది.
+- unlock – .locked ఫైళ్లను డిక్రిప్ట్ చేసి restore చేస్తుంది.
+
+##📝 అడిగే సమాచారం:
+- 📁 టార్గెట్ ఫోల్డర్ పాత్
+- 🔑 పాస్‌వర్డ్ (లాకింగ్ / అన్‌లాక్ చేయడానికి)
