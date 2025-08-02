@@ -33,3 +33,4 @@ pkg update && pkg upgrade
 pkg install python
 pip install cryptography colorama requests
 ```
+## ▶️ వాడే విధానం
