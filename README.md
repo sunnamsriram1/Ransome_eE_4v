@@ -9,6 +9,7 @@
 </p>
 
 ---
+![Encryption Screenshot](screens/encrypt_output.png)
 
 ## 📌 Overview
 
