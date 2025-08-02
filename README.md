@@ -9,7 +9,7 @@
 </p>
 
 ---
-![Encryption Screenshot](screens/encrypt_output.png)
+![Encryption Screenshot](Screenshot_2025-08-02-21-55-09-905_com.termux.jpg)
 
 ## 📌 Overview
 
